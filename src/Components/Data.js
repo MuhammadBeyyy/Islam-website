@@ -1,5 +1,5 @@
 const namesOfAllah = [
-  { arabic: "الرَّحْمَٰنُ", english: "Ar-Rahman (The Most Gracious)" },
+  { arabic: "الرَّحْمَٰنُ", english: "Ar-Rahman (The Most Beneficient)" },
   { arabic: "الرَّحِيمُ", english: "Ar-Rahim (The Most Merciful)" },
   { arabic: "الْمَلِكُ", english: "Al-Malik (The King)" },
   { arabic: "الْقُدُّوسُ", english: "Al-Quddus (The Holy)" },
