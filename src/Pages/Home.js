@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-//import Loading from "./Components/Loading";
 import Footer from "../Components/Footer";
 import Names from "../Pages/Names";
 
