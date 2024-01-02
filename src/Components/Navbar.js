@@ -49,22 +49,4 @@ const Navbar = () => {
 
 export default Navbar;
 
-/*
-<nav className="navbar">
-<div className="nav-center">
-  <Link to="/">
-    <img src={Cocktail} alt="cocktail" className="logo" />
-  </Link>
-  <ul className="nav-links">
-    <li>
-      <Link to="/">Home</Link>
-    </li>
-    <li>
-      <Link to="/about">About</Link>
-    </li>
-  </ul>
-</div>
-</nav>
-*/
 
-//https://cdn5.vectorstock.com/i/1000x1000/97/99/islamic-mosque-logo-for-pray-mubarak-ramadan-vector-42639799.jpg
