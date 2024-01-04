@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import "./styles.css";
 
-//Import Pages component
+//Import Pages component.
 import Home from "./Pages/Home";
 import About from "./Pages/About";
 import Error from "./Pages/Error";
@@ -11,7 +11,7 @@ import Rasul from "./Pages/Rasul";
 import Months from "./Pages/Months";
 import Names from "./Pages/Names";
 
-//Import Components from components section
+//Import Components from the components section
 import Navbar from "./Components/Navbar";
 import SearchQuran from "./Components/SearchQuran";
 //import Loading from "./Components/Loading";
