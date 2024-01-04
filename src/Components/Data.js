@@ -19,6 +19,8 @@ const namesOfAllah = [
   { arabic: "الْقَابِضُ", english: "Al-Qabid (The Restrainer)" },
   { arabic: "الْبَاسِطُ", english: "Al-Basit (The Expander)" },
   { arabic: "الْخَافِضُ", english: "Al-Khafid (The Abaser)" },
+    { arabic: "الْقُدُّوسُ", english: "Al-Quddus (The Holy)" },
+  { arabic: "السَّلَامُ", english: "As-Salam (The Peace)" },
   { arabic: "الرَّافِعُ", english: "Ar-Rafi (The Exalter)" },
   { arabic: "الْمُعِزُّ", english: "Al-Muizz (The Giver of Honour)" },
   { arabic: "الْمُذِلُّ", english: "Al-Mudhill (The Giver of Dishonour)" },
