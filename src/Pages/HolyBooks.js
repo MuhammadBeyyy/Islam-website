@@ -16,7 +16,7 @@ const HolyBooks = () => {
         <p className="section-info">
           The Quran is the central religious text of Islam and is considered the
           direct word of God as revealed to the Prophet Muhammad (PBUH) over a
-          period of approximately 23 years. It is written in Arabic and is
+          period of approximately 23 years. It is written in Arabic language and is
           revered as the ultimate source of guidance, containing teachings,
           laws, and stories that shape the lives of Muslims.
         </p>
